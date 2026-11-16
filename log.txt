@@ -1,0 +1,5 @@
+commit 252a01d37d535c6173d63a57dadbb1bc7c7010a1
+Author: Julien Gossuin <julien.gossuin@epitech.eu>
+Date:   Mon Nov 16 11:30:59 2026 +0100
+
+    Ex_05
